@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size:40px; font-weight:800;">
-  <span style="color:#00FFAA;">MAXIM</span> | <span style="color:#00FFAA;">TOJIYEV</span>
+  <span style="color:#00FFAA;">MAKSIM</span> | <span style="color:#00FFAA;">Kuryazov</span>
 </h1>
 
 <h3 align="center">Fullstack Developer</h3>
