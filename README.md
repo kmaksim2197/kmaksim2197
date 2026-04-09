@@ -1,43 +1,63 @@
-# 👋 Hi, I'm Maksim
-
 <div align="center">
 
-### 🚀 Backend Developer | Python & Django Enthusiast
+# 🧠 Maksim.exe
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+build+Backend+Systems;Django+%7C+Flask+Developer;Always+learning+new+things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=700&lines=Initializing+Maksim...;Backend+Engineer+Loading...;Building+Scalable+Systems...;Turning+Coffee+into+Code...;Welcome+to+my+world+🚀" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧬 About Me
 
-* 🔭 I’m currently working on **Django projects**
-* 🌱 I’m learning **Advanced Backend Architecture**
-* 💡 I love building **scalable web applications**
-* 🎯 Goal: Become **Senior Backend Engineer**
+```bash
+> whoami
+Maksim — Backend Developer
+
+> skills --load
+Python, Django, Flask, APIs
+
+> current_status
+Building • Learning • Growing
+```
 
 ---
 
-## ⚡ Tech Stack
+## ⚙️ Tech Stack
 
-### 🖥 Backend
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+💻 Backend
+Python • Django • Flask
 
-### 🌐 Frontend
+🌐 Frontend
+HTML • CSS • JavaScript
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+🗄 Database
+PostgreSQL • MySQL • SQLite
 
-### 🛢 Database & Tools
+🛠 Tools
+Linux • Git • GitHub
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+</div>
+
+---
+
+## 🧩 Developer Mindset
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Maksim"
+        self.role = "Backend Engineer"
+        self.focus = ["Scalable Systems", "Clean Code", "APIs"]
+
+    def work(self):
+        return "Eat 🍜 Sleep 😴 Code 💻 Repeat 🔁"
+
+me = Developer()
+print(me.work())
+```
 
 ---
 
@@ -52,13 +72,24 @@
 
 ---
 
-## 📫 Connect With Me
+## 🧠 Fun Logic
+
+```javascript
+while(alive) {
+   eat();
+   code();
+   sleep();
+   repeat();
+}
+```
+
+---
+
+## 📡 Connect
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge\&logo=telegram)](https://t.me/MaximGG)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail)](mailto:kmaksim2197@gmail.com)
+[Telegram](https://t.me/) • [LinkedIn](#) • [Email](mailto:kmaksim2197@gmail.com)
 
 </div>
 
@@ -66,6 +97,6 @@
 
 <div align="center">
 
-✨ *"Code. Learn. Build. Repeat."* ✨
+⚡ "First, solve the problem. Then, write the code."
 
 </div>
