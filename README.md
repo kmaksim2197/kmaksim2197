@@ -1,18 +1,18 @@
 <div align="center">
 
-# 🧠 Maksim.exe
+#  Maxim
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=700&lines=Initializing+Maksim...;Backend+Engineer+Loading...;Building+Scalable+Systems...;Turning+Coffee+into+Code...;Welcome+to+my+world+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=700&lines=Initializing+Maxim...;Backend+Engineer+Loading...;Building+Scalable+Systems...;Turning+Coffee+into+Code...;Welcome+to+my+world" />
 
 </div>
 
 ---
 
-## 🧬 About Me
+##  About Me
 
 ```bash
 > whoami
-Maksim — Backend Developer
+Maxim — Backend Developer
 
 > skills --load
 Python, Django, Flask, APIs
@@ -23,37 +23,37 @@ Building • Learning • Growing
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-💻 Backend
+ Backend
 Python • Django • Flask
 
-🌐 Frontend
+ Frontend
 HTML • CSS • JavaScript
 
-🗄 Database
+ Database
 PostgreSQL • MySQL • SQLite
 
-🛠 Tools
+ Tools
 Linux • Git • GitHub
 
 </div>
 
 ---
 
-## 🧩 Developer Mindset
+##  Developer Mindset
 
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Maksim"
+        self.name = "Maxim"
         self.role = "Backend Engineer"
         self.focus = ["Scalable Systems", "Clean Code", "APIs"]
 
     def work(self):
-        return "Eat 🍜 Sleep 😴 Code 💻 Repeat 🔁"
+        return "Eat  Sleep  Code  Repeat "
 
 me = Developer()
 print(me.work())
@@ -61,7 +61,7 @@ print(me.work())
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -72,7 +72,7 @@ print(me.work())
 
 ---
 
-## 🧠 Fun Logic
+##  Fun Logic
 
 ```javascript
 while(alive) {
@@ -85,11 +85,11 @@ while(alive) {
 
 ---
 
-## 📡 Connect
+##  Connect
 
 <div align="center">
 
-[Telegram](https://t.me/) • [LinkedIn](#) • [Email](mailto:kmaksim2197@gmail.com)
+[Telegram](https://t.me/MaximGG) • [LinkedIn](#) • [Email](mailto:kmaksim2197@gmail.com)
 
 </div>
 
@@ -97,6 +97,6 @@ while(alive) {
 
 <div align="center">
 
-⚡ "First, solve the problem. Then, write the code."
+ "First, solve the problem. Then, write the code."
 
 </div>
