@@ -65,7 +65,7 @@ print(me.work())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kmaksim2197&show_icons=true&theme=tokyonight" height="150"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmaksim2197&theme=tokyonight" height="150"/>
 
 </div>
